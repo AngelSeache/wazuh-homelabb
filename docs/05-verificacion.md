@@ -33,3 +33,6 @@ Ingresar a `https://192.168.18.172:5601` (o `https://127.0.0.1:5601` desde la pr
 - Cambiar credenciales por defecto (admin/admin) del dashboard.
 - Fijar IP estática o reserva DHCP para la máquina Arch, para evitar que vuelva a cambiar y rompa el acceso.
 - Si se quiere un nombre de agente más descriptivo, reinstalar con `WAZUH_AGENT_NAME` explícito.
+
+- <img width="1826" height="925" alt="image" src="https://github.com/user-attachments/assets/d0aa46ed-a3ea-43e3-add7-eb5bcbd8ae27" />
+
