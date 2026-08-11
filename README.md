@@ -3,7 +3,7 @@ Documentacion paso a paso de como instale Wazuh de forma manual
 (indexer + manager + dashboard) en Arch Linux, usando paquetes
 oficiales extraidos a mano, mas un agente en Windows para monitoreo.
 
-## Motivacion
+## Precaucion y motivo
 Evitar el AUR por el incidente de supply-chain de junio 2026
 (paquetes comprometidos con infostealer/rootkit).
 
